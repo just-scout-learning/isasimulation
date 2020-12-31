@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser isa_app.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True isa_app.ipynb
